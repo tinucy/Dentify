@@ -1,0 +1,7 @@
+{
+  "name": "UserProfileApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
